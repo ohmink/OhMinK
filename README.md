@@ -18,9 +18,9 @@
 
 <div align="center">
   <h3>Tools i use</h3>
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=black">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"></a>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white">
 </div>
 

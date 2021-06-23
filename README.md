@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! </h1>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohmink&show_icons=true&theme=dracula)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohmink&show_icons=true&theme=dracula)
 </br>
 </br>
 <div align="center">

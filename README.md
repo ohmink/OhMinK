@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! </h1>
-<div align="center>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohmink&show_icons=true&theme=dracula)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohmink&show_icons=true&theme=dracula)
+</br>
+</br>
 <div align="center">
   <h3>Skills i have used</h3>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
@@ -12,5 +12,7 @@
   <img src="https://img.shields.io/badge/express-0?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  </div>
+</div>
+</br>
+</br>
 

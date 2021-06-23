@@ -1,7 +1,11 @@
-<h1 align="center" font-family="Georgia, serif">Hi there! </h1>
+<h1 align="center">Hi there! </h1>
+
+<p align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohmink&show_icons=true&theme=radical)
 
+</p>
+  
 <div align="center">
   <h3>Skills i use</h3>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>

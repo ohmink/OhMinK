@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! </h1>
+<h1 align="center" font-family="Georgia, serif">Hi there! </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohmink&show_icons=true&theme=radical)
 

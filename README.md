@@ -4,13 +4,11 @@
 
   ### Skills i have used
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=black">
 
-  ![Javascript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-  ![React](https://img.shields.io/badge/React--9cf?logo=react)
-  ![NodeJS](https://img.shields.io/badge/Node.js--green?logo=node.js)
-  ![Express](https://img.shields.io/badge/Express--red?logo=Express)
-  ![MongoDB](https://img.shields.io/badge/MongoDB--darkgreen?logo=MongoDB)
- 
+
 
 
